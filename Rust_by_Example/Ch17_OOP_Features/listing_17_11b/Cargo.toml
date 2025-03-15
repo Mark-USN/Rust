@@ -1,0 +1,7 @@
+[package]
+name = "listing_17_11b"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+listing_17_12b = {path = "../listing_17_12b"}
